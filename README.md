@@ -1,4 +1,5 @@
 # Lung-Sound-Classification-using-Deep-Learning-for-lung-disease-detection
+# FYI this is the pre version of original research where we achieved more than 93 percent accuracy. 
 Created a diseases detection system from sound of lung in one of the 10 classes including healthy subjects. USed datasets ICBHI and Fraiwan
 
 1.  After using datasets ICBHI and Fraiwan , merging preprocessing we obtain these 10 classes.
